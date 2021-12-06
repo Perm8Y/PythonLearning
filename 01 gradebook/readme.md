@@ -1,4 +1,4 @@
-# My 1st project for Python learning
+# My 1st project for learning Python
 
 There're 3 files including:
 
