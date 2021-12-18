@@ -19,3 +19,8 @@ Problem source: https://www.freecodecamp.org/learn/scientific-computing-with-pyt
 file: shape_calculator.py <br />
 <br />
 Problem source: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator
+
+## 5. Probability Calculator
+file: prop_calculator.py <br />
+<br />
+Problem source: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator
