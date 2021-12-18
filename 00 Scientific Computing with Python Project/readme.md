@@ -8,3 +8,6 @@ Problem source: https://www.freecodecamp.org/learn/scientific-computing-with-pyt
 
 ## 3. Budget App
 Problem source: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app
+
+## 4. Polygon Area Calculator
+Problem source: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator
