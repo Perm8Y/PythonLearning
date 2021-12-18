@@ -5,3 +5,6 @@ Problem source: https://www.freecodecamp.org/learn/scientific-computing-with-pyt
 
 ## 2. Time Calculator
 Problem source: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator
+
+## 3. Budget App
+Problem source: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app
