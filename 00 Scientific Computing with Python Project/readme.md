@@ -1,26 +1,31 @@
 # Scientific Computing with Python Projects
 
 ## 1. Arithmetic Formatter
-file: arithmetic_arranger.py <br />
+ 
+Problem source: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter <br />
 <br />
-Problem source: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter
+Solution: arithmetic_arranger.py
 
 ## 2. Time Calculator
-file: time_calculator.py <br />
+
+Problem source: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator <br />
 <br />
-Problem source: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator
+Solution: time_calculator.py
 
 ## 3. Budget App
-file: budget_app.py <br />
+
+Problem source: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app <br />
 <br />
-Problem source: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app
+Solution: budget_app.py
 
 ## 4. Polygon Area Calculator
-file: shape_calculator.py <br />
+
+Problem source: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator <br />
 <br />
-Problem source: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator
+Solution: shape_calculator.py
 
 ## 5. Probability Calculator
-file: prop_calculator.py <br />
+
+Problem source: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator <br />
 <br />
-Problem source: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator
+Solution: prop_calculator.py.py
